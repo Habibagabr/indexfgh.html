@@ -194,10 +194,9 @@ body {
     }
    
     .welcoming .first_welcoming_div, .second_welcoming_div, .third_welcoming_div {
-        width: 30%;
+         width: 30%;
         height: 300px;
         border: 2px,solid,gray;
-        border-radius: 10px;
         background-color: white;
         float: left;
         margin-left: 3%;
